@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Raja Narasimhan"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : "Sophomore Electrical and Electronic Engineering Student at BITS PILANI KK BIRLA GOA CAMPUS"
   links:
     - label: "Website"
