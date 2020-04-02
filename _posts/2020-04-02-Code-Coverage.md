@@ -1,5 +1,3 @@
-**Code Coverage**
-
 Code Coverage is basically a measurement to measure a degree to which the source code of a program is executed when a particular test suite runs.
 
 To read more about it check out:
