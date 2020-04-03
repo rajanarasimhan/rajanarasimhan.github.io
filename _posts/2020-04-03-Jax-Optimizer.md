@@ -12,3 +12,7 @@ To find out more about Jax check out:
 
 Dataset I have used is an MNIST. Code for RMSProp optimizer is in test.ipynb, momentum in test1.ipynb and Adam in test3.ipynb
 
+Check out the code at:
+
+[https://github.com/rajanarasimhan/Jax\_Optimiser](https://github.com/rajanarasimhan/Jax_Optimiser)
+
