@@ -29,3 +29,7 @@ Precision: 0.94
 **Future prediction**
 
 Here I tried to predict see pattern of sales in my dataset. I used exponential shift to see pattern. Here if alpha is between 0.35 to 0.6 we can see some patterns. If alpha is less than 0.35 graph is very vague, more than 0.6 it kind of traces the graph.
+
+Check out the code and dataset at:
+
+[https://github.com/rajanarasimhan/homemade-dataset](https://github.com/rajanarasimhan/homemade-dataset)
