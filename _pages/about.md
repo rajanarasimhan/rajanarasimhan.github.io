@@ -2,7 +2,8 @@
 permalink: /about/
 title: "About"
 ---
+I&#39;m sophomore student at BITS Pilani KK Birla Goa Campus studying Electrical and Electronic Engineering. I love learning about AI, especially computer vision. I&#39;m currently working on a project to classify malware by converting binary and asm codes to images.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+**Hobbies**
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I have always been lover of cars from childhood, love reading about them and probably spent half of my life watching car videos in YouTube and binge watching Top Gear and Grand Tour. I&#39;m soon planning to write car blog in my spare time. I also love playing and watching badminton, table tennis and football
