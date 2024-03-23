@@ -15,12 +15,12 @@ title: "About"
 I have always been lover of cars from childhood, love reading about them and probably spent half of my life watching car videos in YouTube and binge watching Top Gear and Grand Tour. I&#39;m soon planning to write car blog in my spare time. I also love playing and watching badminton, table tennis and football.
 
 **Timeline**
-Dec 2023 - Present       Data Scientist 2 at Mastercard Pune
-June 2023 - Dec 2023     Data Science Associate 2 at PwC US Advisory Mumbai
-June 2022 - June 2023    Data Scientist Associate 1 at PwC US Advisory Mumbai
-Aug 2018 - Dec 2022      Undergrad at BITS Pilani KK Birla Goa Campus
-Aug 2012 - Aug 2018      SBOA Public Sr Sec School, Kochi
-Aug 2010 - Aug 2012      Mahatma Gandhi Centenary Vidayala, Trichy
-Aug 2008 - Aug 2010      Jawahar Vidayala, Chennai
-Aug 2003 - Aug 2008      Rajhans Vidyala, Mumbai
+- Dec 2023 - Present       Data Scientist 2 at Mastercard Pune
+- June 2023 - Dec 2023     Data Science Associate 2 at PwC US Advisory Mumbai
+- June 2022 - June 2023    Data Scientist Associate 1 at PwC US Advisory Mumbai
+- Aug 2018 - Dec 2022      Undergrad at BITS Pilani KK Birla Goa Campus
+- Aug 2012 - Aug 2018      SBOA Public Sr Sec School, Kochi
+- Aug 2010 - Aug 2012      Mahatma Gandhi Centenary Vidayala, Trichy
+- Aug 2008 - Aug 2010      Jawahar Vidayala, Chennai
+- Aug 2003 - Aug 2008      Rajhans Vidyala, Mumbai
 
