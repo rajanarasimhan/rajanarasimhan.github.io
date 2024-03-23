@@ -3,11 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-Undergrad from BITS Pilani KK Birla Goa Campus
-Trying to specialize in the field of Data Science, NLP and Computer Vision 💻👁
-Check out my paper in Image-based Android Malware Detection Models using Static and Dynamic Features
-Love taking about cars and motorcycle (OG Top Gear FTW!!!)🚗🏎🚙 and learning history, geography, music etc.
-Currently free time spent riding my Honda CB300R (but rooting for Red Bull KTM Factory Racing in MotoGP xD)
+- Undergrad from BITS Pilani KK Birla Goa Campus
+- Trying to specialize in the field of Data Science, NLP and Computer Vision 💻👁
+- Check out my paper in Image-based Android Malware Detection Models using Static and Dynamic Features
+- Love taking about cars and motorcycle (OG Top Gear FTW!!!)🚗🏎🚙 and learning history, geography, music etc.
+- Currently free time spent riding my Honda CB300R (but rooting for Red Bull KTM Factory Racing in MotoGP xD)
 
 
 **Hobbies**
